@@ -1,15 +1,4 @@
 #lang eopl
-#| In each lab, you will implement a series of functions.
- | Each function you successfully implement will contribute
- |   some number of points to your total grade.
- | The point value of each function is stated above its declaration.
- | Each function will be assessed with a set of test cases which
- |   may NOT be the same as provided test cases.
- |#
-
-
-
-
 #|-------------------------------------------------------------------------------|
  |                        Lab 1: Operations (20 PTS)                             |
  |-------------------------------------------------------------------------------|#
