@@ -1,15 +1,4 @@
 #lang eopl
-#| Some reminders:
- |   Each progamming assignment must be completed individually.
- |   If your code does not compile, you will receive a 0.
- |   Before submitting your code, try test cases on every function
- |     to make sure that they run.
- |   If one of your functions is breaking the whole program due to an error,
- |     you are better off commenting out the body of that function
- |     than submitting code that doesn't run.
- |#
-
-
 #|-------------------------------------------------------------------------------|
  |                            Lab 2: Lists (20 PTS)                              |
  |-------------------------------------------------------------------------------|#
